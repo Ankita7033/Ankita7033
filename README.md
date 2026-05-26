@@ -1,21 +1,168 @@
-# 💫 About Me:
- 👋 Hey there, I'm Ankita — AI/ML Engineer 🚀<br>I'm an AI/ML engineer with a passion for turning data into intelligence and ideas into reality. From building end-to-end machine learning pipelines to deploying scalable AI solutions, I thrive at the intersection of code, data, and creativity.<br><br>🧠 What I Do Best:<br>🤖 Machine Learning & Deep Learning: Designing models that learn, adapt, and make smart decisions (classification, NLP, vision, recommendation systems, etc.)<br>📊 Data Science & Analytics: Extracting insights from data using Python, pandas, NumPy, and visualization libraries<br>🛠️ MLOps & Deployment: Automating ML workflows, model versioning, and deploying solutions via Docker, FastAPI, and cloud platforms<br>🧩 Real-World Problem Solving: I love solving challenging problems and optimizing solutions using AI—from prototypes to production<br><br>💼 Projects That Speak:<br>🔍 Intelligent File Manager: Smart classification of files using NLP and file metadata<br>🎙️ Voice Assistant (JARVIS): A modular, voice-controlled AI assistant built with Python, handling weather, tasks, emails, and plugins<br>🐼 Panda Prompt Generator: A creative writing tool enhanced with genre-specific AI prompts and interactive UX<br><br>🌱 Currently Exploring:<br>Foundation models (LLMs, diffusion models)<br>Prompt engineering & AI UX<br>Scalable AI architectures and distributed training
+<!-- skills: Linux scheduler, EHR clinical ML, PyTorch, edge computing, cgroups, Intel RAPL, perf_event_open, disaster response AI, sign language recognition, NLP, MLOps, Docker, Kubernetes, real-time systems, graph neural networks, MIMIC-IV, Bayesian inference -->
 
+<div align="center">
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ankita Maji) [![Quora](https://img.shields.io/badge/Quora-%23B92B27.svg?logo=Quora&logoColor=white)](https://quora.com/profile/Ankita Maji ) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ankitamaji7033@gmail.com) 
+# Ankita Maji
+### AI/ML Engineer · Systems Researcher · Builder
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=flat-square&logo=microsoftazure&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=flat-square&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=flat-square&logo=render&logoColor=white) ![Chart.js](https://img.shields.io/badge/chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=flat-square&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat-square&logo=flask&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat-square&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![Windicss](https://img.shields.io/badge/windicss-48B0F1.svg?style=flat-square&logo=windi-css&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=flat-square&logo=streamlit&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=flat-square&logo=three.js&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=flat-square&logo=apache&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=flat-square&logo=sqlite&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=flat-square&logo=adobe&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat-square&logo=Canva&logoColor=white) ![Clip Studio Paint](https://img.shields.io/badge/ClipStudioPaint-%23CFD3D3.svg?style=flat-square&logo=ClipStudioPaint&logoColor=white) ![Sketch](https://img.shields.io/badge/Sketch-FFB387?style=flat-square&logo=sketch&logoColor=black) ![Storybook](https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=numpy&logoColor=blue) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat-square&logo=Matplotlib&logoColor=black) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=flat-square&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat-square&logo=TensorFlow&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=flat-square&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=flat-square&logo=cisco&logoColor=black) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139) ![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=flat-square&logo=Twilio&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat-square&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Ankita7033&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Ankita7033&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita7033&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+*I build ML systems where correctness is non-negotiable —*
+*from Linux kernel interfaces to clinical EHR pipelines to real-time disaster infrastructure.*
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Ankita7033&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitamaji2010)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://portfolio-rho-drab-64.vercel.app/)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0303-6375)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ankita_Maji/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AnkitaMaji)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ankitama5noe)
+[![Email](https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ankitamaji7033@gmail.com)
+
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Ankita7033&icon=9&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## About
+
+Most ML engineers either go deep on systems *or* deep on models. I do both — and I ship.
+
+In the last year I went from building applied ML pipelines to writing a hardware-profiled Linux userspace scheduler targeting USENIX HotEdge, a GNN-based clinical subtyping framework on MIMIC-IV, and a production real-time disaster alerting system. Each project has real metrics, real hardware, or real users — not just notebooks.
+
+> **Actively transitioning from applied ML → ML systems research**, with a focus on efficient inference at the edge and high-stakes AI domains.
+
+---
+
+## Current Focus
+
+- **Systems-aware ML infrastructure** — schedulers, interference modeling, resource-constrained inference
+- **Efficient AI for edge environments** — DVFS, energy-aware scheduling, sub-millisecond latency
+- **Clinical & high-stakes AI** — EHR trajectory modeling, explainability, survival analysis
+- **Distributed inference & orchestration** — Kubernetes, DaemonSet deployments, SSE pipelines
+
+---
+
+## Research
+
+Two papers currently in submission for peer-reviewed publication.
+
+| Paper | Novel Contribution | Venue | Status |
+|-------|--------------------|-------|--------|
+| **MOSAIC** | First hardware-counter-profiled userspace scheduler evaluated on disaster-scenario edge workloads; online zero-shot workload classifier via nearest-centroid with EW updates | USENIX HotEdge | 🔄 Under Review |
+| **T2D Subtyping** | Progression-aware GNN subtyping of Type 2 Diabetes using DTW-attention alignment on longitudinal EHR; validated via Kaplan–Meier survival analysis | TBD | 📝 In Submission |
+
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0303--6375-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0303-6375)
+
+---
+
+## Featured Projects
+
+### 🔷 MOSAIC — Linux Userspace Scheduler for Disaster-Response Edge Nodes
+[![Repo](https://img.shields.io/badge/GitHub-MOSAIC-181717?style=flat-square&logo=github)](https://github.com/Ankita7033/MOSAIC)
+&nbsp;`Python` `C` `Linux cgroups v2` `Intel RAPL` `perf_event_open` `SQLite` `Docker` `Kubernetes`
+&nbsp;![Paper](https://img.shields.io/badge/Paper-Under%20Review%20%40%20USENIX%20HotEdge-orange?style=flat-square)
+
+> *First hardware-profiled userspace scheduler designed for disaster-response edge nodes — benchmarked on real hardware, not simulation.*
+
+- **75% reduction in P99 tail latency** (12,738ms → 3,178ms) via a hardware-counter-profiled **6×6 interference matrix** used as an admission control primitive, measured using `perf_event_open()` on real hardware
+- **Zero task starvation** (vs 6.3% baseline); **86% energy efficiency gain** (631 → 1,171 tasks/Wh) via Intel RAPL energy feedback wired into cgroups v2 DVFS throttle
+- Authored an **online ML workload classifier** (nearest-centroid + EW centroid updates) achieving **perfect benchmark classification accuracy** across 6 evaluated disaster-domain workload classes — zero training data required
+- Reproducible benchmark harness: 5 schedulers × 7 metrics × 5 arrival patterns; 63 unit tests, 100% SSE-driven live telemetry dashboard, Docker/Kubernetes DaemonSet deployment
+- 6-page workshop paper targeting **USENIX HotEdge**
+
+*Sep 2025 – Feb 2026*
+
+---
+
+### 🔷 Graph-Based Trajectory Modeling for Type 2 Diabetes Subtyping
+[![Repo](https://img.shields.io/badge/GitHub-T2D_Subtyping-181717?style=flat-square&logo=github)](https://github.com/Ankita7033/T2D_USING_K-MEANS)
+&nbsp;`Python` `PyTorch` `Scikit-learn` `Pandas` `NumPy` `UMAP` `Lifelines` `MIMIC-IV`
+&nbsp;![Paper](https://img.shields.io/badge/Paper-In%20Submission-blue?style=flat-square)
+
+> *Moves T2D subtyping beyond static clustering — models how patients evolve over time, then validates that the subtypes actually predict different survival outcomes.*
+
+- Progression-aware subtyping framework using longitudinal MIMIC-IV EHR data, modeling patient trajectories across multiple temporal scales
+- **DTW-attention alignment** + **GNN-based phenotype fusion** outperforms static K-Means with a **silhouette score of 0.41**
+- Clinically validated subtypes via Kaplan–Meier survival analysis revealing **differential complication risk and treatment response patterns**
+
+*Aug 2025 – Jan 2026*
+
+---
+
+### 🔷 DisasterGuard — AI-Powered Real-Time Disaster Alert System
+[![Repo](https://img.shields.io/badge/GitHub-DisasterGuard-181717?style=flat-square&logo=github)](https://github.com/Ankita7033/Disasterguard)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Vercel-000000?style=flat-square&logo=vercel)](https://disasterguard-nfygj1ppl-ankita4.vercel.app)
+&nbsp;`Node.js` `React 18` `Supabase` `PostgreSQL` `HuggingFace` `Leaflet.js` `SSE` `Vercel` `Render` `Tailwind CSS`
+
+> *Monitors 10 Indian cities for disaster risk in real-time — from weather ingestion to shelter assignment in under 500ms.*
+
+- **120 weather events/hour** via OpenWeatherMap API with **sub-500ms alert generation latency**
+- Event-driven pipeline: HuggingFace AI risk classification (LOW / MEDIUM / HIGH) + deterministic rule-based fallback + Haversine geodesic algorithm for automatic nearest-shelter assignment across 10 Indian states
+- Production system on free-tier infrastructure (Vercel + Render + Supabase): SSE real-time map updates, Supabase Auth, Gmail SMTP alerts, GitHub Actions CI/CD, **100% uptime** via UptimeRobot
+
+*Feb 2026 – Mar 2026*
+
+---
+
+### 🔷 SFG-ISL — Real-Time Indian Sign Language Understanding
+[![Repo](https://img.shields.io/badge/GitHub-SFG--ISL-181717?style=flat-square&logo=github)](https://github.com/Ankita7033/Indian-sign-language-)
+&nbsp;`Python` `MediaPipe` `OpenCV` `Graph Neural Networks` `Temporal Modeling`
+
+> *Goes beyond hand gestures — interprets the full non-manual signal of ISL including facial expressions, gaze, head pose, and shoulder dynamics.*
+
+- **Semantic graph fusion (SFG)** framework fusing non-manual features — facial expressions, gaze direction, head pose, shoulder dynamics — for holistic ISL interpretation
+- Lightweight and explainable: built on **MediaPipe + OpenCV** for real-time inference without GPU dependency
+- Temporal stabilization layer reduces jitter in continuous signing sequences, improving practical usability
+
+---
+
+### 🔷 Pulsechain — Early Disease Outbreak Detection
+[![Repo](https://img.shields.io/badge/GitHub-Pulsechain-181717?style=flat-square&logo=github)](https://github.com/Ankita7033/pulsechain)
+&nbsp;`n8n` `Bayesian Signal Fusion` `Probabilistic Modeling`
+
+> *Detects outbreaks 7–14 days before traditional surveillance systems by fusing probabilistic signals rather than waiting for confirmed case counts.*
+
+- Bayesian probabilistic signal fusion with regional seasonal baselines, explainable alert reasoning, and cross-region spread modeling
+
+---
+
+## Tech Stack
+
+### Core Expertise
+`Python` `C` `PyTorch` `Linux cgroups v2` `Intel RAPL` `perf_event_open` `Docker` `Kubernetes` `scikit-learn` `Graph Neural Networks` `FastAPI`
+
+### Also Proficient In
+`C++` `Java` `JavaScript` `TensorFlow` `Keras` `Pandas` `NumPy` `SciPy` `MLflow` `Plotly` `React` `Node.js` `Supabase` `PostgreSQL` `MongoDB` `AWS` `Azure` `Vercel` `Flask` `Streamlit` `Socket.io` `Tailwind CSS` `Git` `GitHub Actions`
+
+---
+
+## Competitive Programming
+
+Actively solving DSA & CP problems with automated GitHub sync across platforms.
+
+**Focus areas:** Graphs · Dynamic Programming · Greedy · Trees · Binary Search
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-Ankita__Maji-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/Ankita_Maji/)
+[![Codeforces](https://img.shields.io/badge/Codeforces-AnkitaMaji-1F8ACB?style=flat-square&logo=codeforces&logoColor=white)](https://codeforces.com/profile/AnkitaMaji)
+[![GFG](https://img.shields.io/badge/GeeksforGeeks-ankitama5noe-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/ankitama5noe)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankita7033&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+
+![Streak](https://nirzak-streak-stats.vercel.app/?user=Ankita7033&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita7033&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+<div align="center">
+
+*Always building. Always measuring. Always shipping.*
+
+![Profile Views](https://visitcount.itsvg.in/api?id=Ankita7033&icon=9&color=0)
+
+</div>
