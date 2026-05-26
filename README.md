@@ -149,11 +149,11 @@ Actively solving DSA & CP problems with automated GitHub sync across platforms.
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankita7033&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ankita7033&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&rank_icon=github)
 
-![Streak](https://nirzak-streak-stats.vercel.app/?user=Ankita7033&theme=tokyonight&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=Ankita7033&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita7033&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ankita7033&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact&langs_count=8)
 
 </div>
 
@@ -163,6 +163,6 @@ Actively solving DSA & CP problems with automated GitHub sync across platforms.
 
 *Always building. Always measuring. Always shipping.*
 
-![Profile Views](https://visitcount.itsvg.in/api?id=Ankita7033&icon=9&color=0)
+![Profile Views](https://komarev.com/ghpvc/?username=Ankita7033&color=blueviolet&style=flat-square&label=Profile+Views)
 
 </div>
