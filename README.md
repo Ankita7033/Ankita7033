@@ -151,7 +151,7 @@ Actively solving DSA & CP problems with automated GitHub sync across platforms.
 
 ![Streak](https://streak-stats.demolab.com/?user=Ankita7033&theme=tokyonight&hide_border=true)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Ankita7033&theme=tokyonight&show_icons=true&hide_border=true)
+![Trophies](https://github-trophies.vercel.app/?username=Ankita7033&theme=tokyonight&no-frame=true&margin-w=6&column=7)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Ankita7033&theme=tokyo-night&hide_border=true&area=true)
 
