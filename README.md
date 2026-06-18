@@ -45,8 +45,8 @@ Two papers currently in submission for peer-reviewed publication.
 
 | Paper | Novel Contribution | Venue | Status |
 |-------|--------------------|-------|--------|
-| **MOSAIC** | First hardware-counter-profiled userspace scheduler evaluated on disaster-scenario edge workloads; online zero-shot workload classifier via nearest-centroid with EW updates | USENIX HotEdge | 🔄 Under Review |
-| **T2D Subtyping** | Progression-aware GNN subtyping of Type 2 Diabetes using DTW-attention alignment on longitudinal EHR; validated via Kaplan–Meier survival analysis | TBD | 📝 In Submission |
+| **MOSAIC** | First hardware-counter-profiled userspace scheduler evaluated on disaster-scenario edge workloads; online zero-shot workload classifier via nearest-centroid with EW updates | ICNCCom | 🔄 Under Review |
+| **T2D Subtyping** | Progression-aware GNN subtyping of Type 2 Diabetes using DTW-attention alignment on longitudinal EHR; validated via Kaplan–Meier survival analysis | Springer nature | 🔄 Under Review |
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0303--6375-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0303-6375)
 
