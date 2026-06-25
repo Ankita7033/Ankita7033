@@ -57,7 +57,7 @@ Two papers currently in submission for peer-reviewed publication.
 ### 🔷 MOSAIC — Linux Userspace Scheduler for Disaster-Response Edge Nodes
 [![Repo](https://img.shields.io/badge/GitHub-MOSAIC-181717?style=flat-square&logo=github)](https://github.com/Ankita7033/MOSAIC)
 &nbsp;`Python` `C` `Linux cgroups v2` `Intel RAPL` `perf_event_open` `SQLite` `Docker` `Kubernetes`
-&nbsp;![Paper](https://img.shields.io/badge/Paper-Under%20Review%20%40%20USENIX%20HotEdge-orange?style=flat-square)
+&nbsp;![Paper Status](https://img.shields.io/badge/Paper-Under%20Review%20%40%20ICCNCom-orange?style=flat-square)
 
 > *First hardware-profiled userspace scheduler designed for disaster-response edge nodes — benchmarked on real hardware, not simulation.*
 
