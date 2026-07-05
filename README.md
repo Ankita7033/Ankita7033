@@ -73,7 +73,7 @@ In the last year I went from building applied ML pipelines to writing a hardware
 *First hardware-profiled userspace scheduler designed for disaster-response edge nodes — benchmarked on real hardware, not simulation.*
 
 `Python` `C` `Linux cgroups v2` `Intel RAPL` `perf_event_open` `SQLite` `Docker` `Kubernetes`
-&nbsp;![Paper Status](https://img.shields.io/badge/Paper-Under%20Review%20%40%20ICCNCom-orange?style=flat-square)
+&nbsp;![Paper Status](https://img.shields.io/badge/Paper-Under%20Accepted%20%40%20ICCNCom-orange?style=flat-square)
 
 - **75% reduction in P99 tail latency** (12,738ms → 3,178ms) via a hardware-counter-profiled **6×6 interference matrix** used as an admission control primitive, measured with `perf_event_open()` on real hardware
 - **Zero task starvation** (vs. 6.3% baseline) and **86% energy efficiency gain** (631 → 1,171 tasks/Wh) via Intel RAPL feedback wired into cgroups v2 DVFS throttling
