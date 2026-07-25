@@ -7,6 +7,7 @@
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ML+systems+where+correctness+is+non-negotiable;From+Linux+kernel+interfaces+to+clinical+EHR+pipelines;Hardware-profiled+schedulers+%7C+Real-time+disaster+AI;Currently%3A+2+papers+under+review+%2B+open-source+contributor" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitamaji2010)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ankitamaji7033)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-rho-drab-64.vercel.app/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0303-6375)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitamaji7033@gmail.com)
@@ -232,6 +233,7 @@ Actively solving DSA & CP problems, with automated sync across platforms.
 I'm actively looking for **ML/AI Engineering and Systems internship & full-time roles** where I can build things that matter. If that's what you're hiring for — let's talk.
 
 [![LinkedIn](https://img.shields.io/badge/Message%20me%20on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitamaji2010)
+[![Medium](https://img.shields.io/badge/Read%20my%20writing%20on-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ankitamaji7033)
 [![Email](https://img.shields.io/badge/Email%20me-ankitamaji7033%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitamaji7033@gmail.com)
 
 *Always building. Always measuring. Always shipping.*
