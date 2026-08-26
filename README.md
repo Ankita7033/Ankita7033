@@ -4,10 +4,13 @@
 
 ### AI/ML Engineer · Systems Researcher · Builder
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ML+systems+where+correctness+is+non-negotiable;From+Linux+kernel+interfaces+to+clinical+EHR+pipelines;Hardware-profiled+schedulers+%7C+Real-time+disaster+AI;Currently%3A+2+papers+under+review+%2B+open-source+contributor" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Building+ML+systems+where+correctness+is+non-negotiable;From+Linux+kernel+interfaces+to+clinical+EHR+pipelines;Hardware-profiled+schedulers+%7C+Real-time+disaster+AI;Currently%3A+1+paper+%2B+2+patents+under+review+%2B+open-source+contributor" alt="Typing SVG" />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankitamaji2010)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ankitamaji7033)
+[![Dev.to](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/ankitamaji7033)
+[![Hashnode](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://hashnode.com/@ankitamaji7033)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/ankitamaji7033)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://portfolio-rho-drab-64.vercel.app/)
 [![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0303-6375)
 [![Email](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ankitamaji7033@gmail.com)
@@ -18,7 +21,7 @@
 
 <div align="center">
 
-|  🔬 2 Papers Under Review  |  ⚡ 75% Tail-Latency Cut (MOSAIC)  |  🌍 120 Events/hr (DisasterGuard)  |  🛠️ 5 End-to-End ML Systems Shipped  |
+|  🔬 1 Paper + 2 Patents Under Review  |  ⚡ 75% Tail-Latency Cut (MOSAIC)  |  🌍 120 Events/hr (DisasterGuard)  |  🛠️ 5 End-to-End ML Systems Shipped  |
 |:---:|:---:|:---:|:---:|
 
 </div>
@@ -32,13 +35,15 @@
 | 🎯 **Focus** | Systems-aware ML infrastructure, edge AI, and clinical/high-stakes ML |
 | 🎓 **Education** | B.Tech CSE (AI/ML), Lovely Professional University |
 | 💼 **Status** | 🟢 Open to ML/AI Engineering & Systems internships, full-time roles |
-| 🔬 **Research** | 2 papers in peer-reviewed submission (ICCNCom, Springer Nature) |
+| 🔬 **Research** | 1 paper in peer-reviewed submission (Springer Nature) · 2 patents under review |
 
 ---
 
 ## 🌱 Currently
 
-- 🔧 Contributing to **[MLflow](https://github.com/mlflow/mlflow)** (open source) — fixing a tags-propagation bug in `Model.log()` → `ModelVersion`, with a regression test in progress
+- ✍️ Actively writing technical blogs (Medium, dev.to, Hashnode) — systems and ML architecture deep-dives
+- 🔬 Building **CADENCE** — a causal drift attribution system for production ML retraining
+- 🧭 Researching **directional damage in continual learning**
 - ⚙️ Building an automated **Codeforces → GitHub sync pipeline** (GitHub Actions + scraping-based submission capture)
 - 📚 Sharpening DSA fundamentals (Graphs, DP, Greedy, Trees, Binary Search) for technical interviews
 
@@ -64,6 +69,42 @@ In the last year I went from building applied ML pipelines to writing a hardware
 | **T2D Subtyping** | Progression-aware GNN subtyping of Type 2 Diabetes using DTW-attention alignment on longitudinal EHR; validated via Kaplan–Meier survival analysis | Springer Nature | 🔄 Under Review |
 
 [![ORCID](https://img.shields.io/badge/ORCID-0009--0003--0303--6375-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0009-0003-0303-6375)
+
+---
+
+## 📜 Patents
+
+| Patent | Core Contribution | Filing Stage |
+|---|---|---|
+| **CAAG** — Cause-Attributed Adaptation Gating for On-Device ML | Gates on-device model self-updates behind a label-free cause-attribution layer: before letting a deployed model adapt to a distribution shift, it fuses cross-channel coherence, temporal signature, and plausibility-prior evidence to work out whether the shift is a genuine change in the world or just a faulty sensor — then routes to guarded bounded adaptation, channel masking/recalibration, or a wait-and-track mode accordingly | 🔄 Provisional — under review |
+| **PBPEC** — Wearable Bioimpedance System for Non-Invasive Circadian Phase Estimation | Infers a person's internal circadian phase continuously from multi-frequency skin bioimpedance, extracting four Cole-Cole electrical parameters and running them through a biologically-constrained Bayesian state-space estimator (period locked to 20–28h, priors from clock-gene ion-channel data); an optional closed-loop module delivers confidence-gated microcurrent stimulation to nudge phase alignment | 🔄 Provisional — under review |
+
+<details>
+<summary><b>📂 Patent details</b> — click to expand</summary>
+
+<br>
+
+### 🔷 CAAG — Cause-Attributed Adaptation Gating in On-Device Machine Learning
+
+*Stops an edge/wearable model from silently corrupting itself when a "distribution shift" is actually just a loose electrode.*
+
+- Sits between drift detection and the model-update step: a **Change Trigger** flags a distributional shift, but the **Cause-Attributed Adaptation Gate (CAAG)** must first diagnose *why* before any update runs
+- Fuses three label-free evidence channels — **Cross-Channel Coherence Signature**, **Temporal Signature**, **Plausibility Prior Manifold** — into a posterior cause estimate with a confidence score
+- Cause-conditioned routing: sensor fault → suppress adaptation + mask/recalibrate the channel; genuine drift (high confidence) → **Guarded Bounded Adaptation** with a rollback-protected trust budget; ambiguous → defer and track relative change
+- Emits machine-readable health telemetry (attributed cause, confidence, per-channel reliability) for fleet monitoring or clinical alerting
+- Filed as a provisional IDF at LPU; four claim-independent inventive pillars identified for potential patent-family splitting
+
+### 🔷 PBPEC — Wearable Multi-Frequency Bioimpedance Circadian Phase System
+
+*Reads your body clock off your skin's electrical properties instead of drawing blood every hour.*
+
+- Multi-frequency (1/10/50 kHz) bioimpedance sensing at 2–3 skin sites, fitting a Cole-Cole model to extract four time-varying parameters (Cm, Ri, Re, α) every ~20 minutes
+- **BCPE** algorithm: a circadian-period-constrained (20–28h) Bayesian state-space estimator with biologically-derived amplitude priors and a heavy-tailed likelihood for artifact robustness
+- **MPCV** validator uses the Re parameter as an internal "negative control" to reject environmentally-contaminated readings — a reversal of how conventional bioimpedance devices are designed
+- Optional **PREM** module: closed-loop, confidence-gated biphasic microcurrent stimulation for circadian phase realignment, gated only when posterior uncertainty is low enough
+- Currently at the feasibility/computational-simulation stage (no physical prototype yet); a four-phase in-vitro → in-vivo validation program is planned before a complete specification is filed
+
+</details>
 
 ---
 
